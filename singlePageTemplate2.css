@@ -65,13 +65,13 @@ ul li:hover a {
 	color: #2C9AB7;
 }
 .hero_header {
-	color: #FFFFFF;
-	text-align: center;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-	margin-left: 0px;
-	letter-spacing: 4px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    letter-spacing: 4px;
 }
 /* Hero Section */
 .hero {
@@ -150,7 +150,7 @@ ul li:hover a {
 /* Parallax Section */
 .banner {
     background-color: #2D9AB7;
-    background-image: url(../images/parallax.png);
+    background-image: url(parallax.png);
     height: 400px;
     background-attachment: fixed;
     background-size: cover;
